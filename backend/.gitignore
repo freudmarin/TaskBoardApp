@@ -1,0 +1,63 @@
+# Compiled class files
+target/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Test reports
+surefire-reports/
+test-output/
+
+# Build output
+out/
+dist/
+build/
+
+# Node dependencies (if any frontend tooling in backend)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Misc
+*.bak
+*.tmp
+
